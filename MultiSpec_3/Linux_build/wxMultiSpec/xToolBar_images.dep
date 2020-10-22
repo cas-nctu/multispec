@@ -1,0 +1,2 @@
+xToolBar_images.o: wxMultiSpec/xToolBar_images.cpp \
+ /usr/include/stdc-predef.h

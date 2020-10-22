@@ -1,0 +1,2 @@
+xGraphWindow_images.o: wxMultiSpec/xGraphWindow_images.cpp \
+ /usr/include/stdc-predef.h

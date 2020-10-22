@@ -1,0 +1,2 @@
+xDialog_images.o: wxMultiSpec/xDialog_images.cpp \
+ /usr/include/stdc-predef.h

@@ -1,0 +1,2 @@
+xCursor_images.o: wxMultiSpec/xCursor_images.cpp \
+ /usr/include/stdc-predef.h
